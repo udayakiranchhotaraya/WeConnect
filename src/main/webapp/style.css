@@ -1,0 +1,48 @@
+div.hero {
+    background-image: url('./static/images/abstract-polka-dot-background-with-small-dots-free-vector-107897485.jpg') !important;
+    /* height: 20rem; */
+    background-repeat: repeat;
+    background-size: 35%;
+}
+
+div.hero > div.row > img:hover {
+    box-shadow: 15px 15px;
+    transition: 100ms;
+}
+
+.form-group {
+    width: inherit;
+    text-align: center;
+}
+
+.form-group label {
+    display: block;
+    margin: 6px;
+    padding-left: 2.25em;
+    text-align: justify;
+    font-size: 14px;
+}
+
+.form-group input {
+    width: 77%;
+    padding: 6px;
+    font-size: 16px;
+}
+
+.form-group button {
+    width: 80%;
+    margin: auto;
+    padding: 7px;
+    font-size: 16px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 3px;
+    transition: background-color 500ms;
+}
+
+.form-group button:hover {
+    background-color: #0CAA41;
+    border: 1px solid #0CAA41;
+    color: white;
+    transition: background-color 500ms;
+}
