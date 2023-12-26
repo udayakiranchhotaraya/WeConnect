@@ -2,19 +2,16 @@
 <title>WeConnect</title>
 <link ref="stylesheet" href="./style.css">
 <style>
-body {
-    overflow-x: hidden;
-}
 
-div.hero {
+/* div.hero {
     background-image: url('./static/images/abstract-polka-dot-background-with-small-dots-free-vector-107897485.jpg') !important;
-    /* height: 20rem; */
+    height: 20rem; 
     background-repeat: repeat;
     background-size: 25%;
-}
+} */
 
-img#hero-image:hover {
-    box-shadow: 15px 15px;
+video#hero-video:hover {
+    box-shadow: 25px 25px;
     transition: box-shadow 100ms;
 }
 
@@ -61,12 +58,12 @@ img#hero-image:hover {
         <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
           <div class="col-10 col-sm-8 col-lg-6">
             <!-- <img id="hero-image" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd3tl80hy6t5toy.cloudfront.net%2Fwp-content%2Fuploads%2Fsites%2F3%2F2017%2F09%2F07134411%2F2017-09-14-Interviews-ThinkstockPhotos-621579258.jpg&f=1&nofb=1&ipt=a9defb841534a328c6b6e543fef0f66ca3c4b416334454ba44c69d2140dc1b4a&ipo=images" class="d-block mx-lg-auto img-fluid" alt="Job Interview" width="700" height="500" loading="lazy" style="box-shadow: 12px 12px #333;"> -->
-            <video id="hero-video" autoplay loop muted style="box-shadow: 12px 12px;" height="400">
+            <video id="hero-video" autoplay loop muted height="400" style="box-shadow: 12px 12px">
                 <source src="./static/videos/pexels-tima-miroshnichenko-5438890 (1080p).mp4" type="video/mp4">
             </video>
           </div>
-          <div class="col-lg-6">
-            <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">WeConnect your talent to opportunities</h1>
+          <div class="col-lg-6 mx-auto">
+            <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3 dotted-text">WeConnect your talent to opportunities</h1>
             <div class="card" style="width: 23rem; margin: auto">
                 <div class="card-body">
                   <span>

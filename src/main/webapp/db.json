@@ -1,0 +1,148 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@mail.com",
+        "gender": "Male",
+        "password": "john.pwd"
+      },
+      {
+        "email": "jane.doe@mail.com",
+        "password": "jane.pwd",
+        "id": 2
+      },
+      {
+        "email": "jack.doe@mail.com",
+        "password": "jack.pwd",
+        "id": 3
+      },
+      {
+        "email": "jill.doe@mail.com",
+        "password": "jill.pwd",
+        "id": 4
+      },
+      {
+        "email": "jason@mail.com",
+        "password": "jason.pwd",
+        "id": 5
+      },
+      {
+        "email": "maxx@mail.com",
+        "password": "max.pwd",
+        "id": 6,
+        "name": "Max",
+        "gender": "Male"
+      },
+      {
+        "email": "lewis@mail.com",
+        "password": "lewis.pwd",
+        "id": 7,
+        "name": "Lewis Hamilton",
+        "gender": "Male"
+      },
+      {
+        "email": "seb.vettel@mail.com",
+        "password": "seb.pwd",
+        "id": 8,
+        "name": "Sebastian Vettel",
+        "gender": "Male"
+      },
+      {
+        "email": "checo@mail.com",
+        "password": "checo.pwd",
+        "id": 9,
+        "name": "Sergio Perez",
+        "gender": "Male"
+      }
+    ],
+    "employers": [
+      {
+        "companyName": "Cakiweb Solutions",
+        "email": "cakiweb@mail.com",
+        "password": "caki.pwd",
+        "hrRep": "Aman",
+        "id": 1
+      },
+      {
+        "companyName": "Pixelmattic",
+        "email": "asutosh@pixelmattic.com",
+        "password": "pixe.pwd",
+        "hrRep": "Asutosh",
+        "id": 2
+      },
+      {
+        "companyName": "Codebusters",
+        "email": "manoj@codebusters.com",
+        "password": "manoj.pwd",
+        "hrRep": "Manoj",
+        "id": 3
+      }
+    ],
+    "jobs": [
+      {
+        "id": 1,
+        "jobTitle": "PHP Web Developer",
+        "jobDescription": "We are looking to hire a talented PHP developer to manage our back-end services and ensure a seamless interchange of data between the server and our users. As a PHP developer, you will be responsible for developing and coding all server-side logic. You will also be required to maintain the central database and respond to requests from front-end developers.\n\n ensure success as a PHP developer, you should have in-depth knowledge of object-oriented PHP programming, understanding of MVC designs, and working knowledge of front-end technologies including HTML5, JavaScript, and CSS3. Ultimately, a top-level PHP Developer can design and build efficient PHP modules while seamlessly integrating front-end technologies.\n\nJob Types: Full-time, Regular / Permanent, Fresher\n\nSalary: ₹8,086.00 - ₹35,687.26 per month.\n\nSchedule:\n\nDay shift\n\nSupplemental pay types:\n\nCommission pay\nOvertime pay\nAbility to commute/relocate:\nOld Station Square, Chintamaniswar, Bhubaneshwar - 751006, Odisha: Reliably commute or planning to relocate before starting work (Required)\n\nEducation:\nBachelor's (Preferred)\n\nExperience:\nPHP: 1 year (Preferred)\ntotal work: 1 year (Preferred)\nsoftware development: 1 year (Preferred)\n\nLicense/Certification:\nPHP (Preferred) ",
+        "jobResponsibilities": "1. Collaborate daily with a multidisciplinary team of Software Engineers, Researchers, Strategists, and Project Managers.\n2. Co-lead ideation sessions, workshops, demos, and presentations with clients on-site",
+        "requiredSkills" : "1. You’ve been designing digital products for 2+ years.\n2. A portfolio that exemplifies strong visual design and a focus on defining the user experience.",
+        "benefits": "1. We are a remote-first company.\n2. 100% company-paid health insurance premiums for you & your dependents\n3. Vacation stipend",
+        "jobType": "Fulltime",
+        "jobExperience": "2 years",
+        "employerID": 1,
+        "jobLocation": "Bhubaneshwar, Orissa",
+        "salaryExpected": "₹8,086 - ₹35,687 a month",
+        "applicantIds": [
+          1,
+          2,
+          6
+        ]
+      },
+      {
+        "id": 2,
+        "jobTitle": "Web Developers (Remote)",
+        "jobDescription": "We are looking to hire a talented PHP developer to manage our back-end services and ensure a seamless interchange of data between the server and our users. As a PHP developer, you will be responsible for developing and coding all server-side logic. You will also be required to maintain the central database and respond to requests from front-end developers.\n\n ensure success as a PHP developer, you should have in-depth knowledge of object-oriented PHP programming, understanding of MVC designs, and working knowledge of front-end technologies including HTML5, JavaScript, and CSS3. Ultimately, a top-level PHP Developer can design and build efficient PHP modules while seamlessly integrating front-end technologies.\n\nJob Types: Full-time, Regular / Permanent, Fresher\n\nSalary: ₹8,086.00 - ₹35,687.26 per month.\n\nSchedule:\n\nDay shift\n\nSupplemental pay types:\n\nCommission pay\nOvertime pay\nAbility to commute/relocate:\nOld Station Square, Chintamaniswar, Bhubaneshwar - 751006, Odisha: Reliably commute or planning to relocate before starting work (Required)\n\nEducation:\nBachelor's (Preferred)\n\nExperience:\nPHP: 1 year (Preferred)\ntotal work: 1 year (Preferred)\nsoftware development: 1 year (Preferred)\n\nLicense/Certification:\nPHP (Preferred) ",
+        "jobResponsibilities": "1. Collaborate daily with a multidisciplinary team of Software Engineers, Researchers, Strategists, and Project Managers.\n2. Co-lead ideation sessions, workshops, demos, and presentations with clients on-site",
+        "requiredSkills" : "1. You’ve been designing digital products for 2+ years.\n2. A portfolio that exemplifies strong visual design and a focus on defining the user experience.",
+        "benefits": "1. We are a remote-first company.\n2. 100% company-paid health insurance premiums for you & your dependents\n3. Vacation stipend",
+        "jobType": "Part-time",
+        "jobExperience": "2 years",
+        "employerID": 2,
+        "jobLocation": "India Remote",
+        "salaryExpected": "₹25,000 - ₹35,000 a month",
+        "applicantIds": [
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "jobTitle": "Customer Support Voice & Non Voice",
+        "jobDescription": "Urgent Requirement Customer Support Officer Customer Support Customer Care Customer Services Customer Service Executive Voice & Non Voice Process Work from office\n\nSkills Should have excellent communication skills- English\nExcellent verbal and written communication skills\nAbility to work effectively in a team environment Pleasant, professional, and courteous personality skills\nThe job will require you to handle inbound calls/emails/chats regarding Customer queries.\nResolve customer queries and achieve customer delight.\nAbility to Identify Opportunity and Implement Process Improvements\nHas technical experience and skills in the areas of problem determination, creativity, and analysis.\n\nCall/WhatsAp8750141536HRManager\n\nProfile: - Technical Support/Customer Support Banking Profile /Laptop/Desktop Support IT Help Disk/Insurance/Sales/Mortgage/\n\nJob Types: Full-time, Regular / Permanent\n\nSalary: ₹22,607.95 - ₹34,055.89 per month\n\nBenefits:\n\nHealth insurance\nInternet reimbursement\nLife insurance\nPaid time off\nProvident Fund\nWork from home\nSchedule:\n\nDay shift\nEvening shift\nFixed shift\nMonday to Friday\nMorning shift\nNight shift\nRotational shift\nUK shift\nUS shift\nWeekend availability\nWeekend only\nSupplemental pay types:\n\nCommission pay\nJoining bonus\nOvertime pay\nPerformance bonus\nQuarterly bonus\nShift allowance\nYearly bonus\nAbility to commute/relocate:\n\nJaipur, Rajasthan: Reliably commute or planning to relocate before starting work (Required)\nEducation:\n\nHigher Secondary(12th Pass) (Preferred)\nExperience:\n\ntotal work: 1 year (Required)\nCustomer service: 1 year (Required)\nLanguage:\n\nEnglish (Preferred)",
+        "jobResponsibilities": "1. Collaborate daily with a multidisciplinary team of Software Engineers, Researchers, Strategists, and Project Managers.\n2. Co-lead ideation sessions, workshops, demos, and presentations with clients on-site",
+        "requiredSkills" : "1. You’ve been designing digital products for 2+ years.\n2. A portfolio that exemplifies strong visual design and a focus on defining the user experience.",
+        "benefits": "1. We are a remote-first company.\n2. 100% company-paid health insurance premiums for you & your dependents\n3. Vacation stipend",
+        "jobType": "Remote",
+        "jobExperience": "2 years",
+        "employerID": 2,
+        "jobLocation": "Mohali, Punjab • Remote",
+        "salaryExpected": "₹22,608 - ₹34,056 a month",
+        "applicantIds": [],
+        "id": 4
+      },
+      {
+        "jobTitle": "Web and Graphic Designer",
+        "jobDescription": "Key Skills:\nCandidates must have at least 2 Yrs. experience of Photoshop,Dreamweaver, jquery, HTML5 & CSS.\nShould be a mockup and graphic design expert, with expertise in Photoshop, illustrator, indesign and corel draw.\nShould have a strong sense of visual design, with an eye for simple-to-use interfaces.\nMust have strong work experience in HTML5 & CSS to design responsive websites.",
+        "jobResponsibilities": "1. Collaborate daily with a multidisciplinary team of Software Engineers, Researchers, Strategists, and Project Managers.\n2. Co-lead ideation sessions, workshops, demos, and presentations with clients on-site",
+        "requiredSkills" : "1. You’ve been designing digital products for 2+ years.\n2. A portfolio that exemplifies strong visual design and a focus on defining the user experience.",
+        "benefits": "1. We are a remote-first company.\n2. 100% company-paid health insurance premiums for you & your dependents\n3. Vacation stipend",
+        "jobType": "Fulltime",
+        "jobExperience": "2 years",
+        "employerID": 1,
+        "jobLocation": "Bhubaneshwar, Orissa",
+        "salaryExpected": "Rs. 10,000 - Rs. 12,000 per month",
+        "applicantIds": [],
+        "id": 5
+      }
+    ]
+  }
